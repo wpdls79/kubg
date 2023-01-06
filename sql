@@ -53,7 +53,7 @@ values('아이디', '비밀번호', '닉네임', '전화번호');
 
 select * from tbl_member;
 
-
+ 
 
 select userId, verify from tbl_member;
 
